@@ -20,7 +20,7 @@ allows the the publishe and subscriber to communicate with each other.
 ![RabbitMQ running](images/RabbitMQ_Run.jpg)
 
 ###### Result of Running Subscriber and Publisher
-![Subscriber Result](images/subscriber.jpg)
+![Subscriber Result](images/subscribernew.jpg)
 ![Publisher Result](images/publisher.jpg)
 
 ###### Result of Running Publisher Repeatedly
