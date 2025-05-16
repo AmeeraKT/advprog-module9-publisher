@@ -25,3 +25,6 @@ allows the the publishe and subscriber to communicate with each other.
 
 ###### Result of Running Publisher Repeatedly
 ![RabbitMQ Publisher](images/RabbitPublisher.jpg)
+There is one tall spike in the chart with the rate of two messages per second
+because I ran publisher twice in succession. The purple spikes show the rate
+of messages sent within a minute time frame.
