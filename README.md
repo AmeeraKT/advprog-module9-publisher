@@ -15,3 +15,6 @@ The reason the urls are the same so that the publisher and subscriber can
 connect to the same message broker on port 5672 locally on localhost. This
 allows the the publishe and subscriber to communicate with each other.
 ```
+
+###### RabbitMQ Running
+![RabbitMQ running](images/RabbitMQ_Run.jpg)
