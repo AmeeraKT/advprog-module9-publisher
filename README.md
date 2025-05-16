@@ -22,3 +22,6 @@ allows the the publishe and subscriber to communicate with each other.
 ###### Result of Running Subscriber and Publisher
 ![Subscriber Result](images/subscriber.jpg)
 ![Publisher Result](images/publisher.jpg)
+
+###### Result of Running Publisher Repeatedly
+![RabbitMQ Publisher](images/RabbitPublisher.jpg)
